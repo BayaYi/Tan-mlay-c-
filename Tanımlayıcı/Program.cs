@@ -1,7 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 // Durumlar
 
-
 Console.WriteLine("Doğruluğunu kontrol etmek istediğiniz matematiksel ifadeyi giriniz");
 string ifade = Console.ReadLine();
 char[] karakterler = ifade.ToCharArray();
