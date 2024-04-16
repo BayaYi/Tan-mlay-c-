@@ -1,0 +1,14 @@
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\bin\Debug\net8.0\Tanımlayıcı.exe
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\bin\Debug\net8.0\Tanımlayıcı.deps.json
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\bin\Debug\net8.0\Tanımlayıcı.runtimeconfig.json
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\bin\Debug\net8.0\Tanımlayıcı.dll
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\bin\Debug\net8.0\Tanımlayıcı.pdb
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.AssemblyInfoInputs.cache
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.AssemblyInfo.cs
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.csproj.CoreCompileInputs.cache
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.dll
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\refint\Tanımlayıcı.dll
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.pdb
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\Tanımlayıcı.genruntimeconfig.cache
+C:\Users\MONSTER\source\repos\Tanımlayıcı\Tanımlayıcı\obj\Debug\net8.0\ref\Tanımlayıcı.dll
